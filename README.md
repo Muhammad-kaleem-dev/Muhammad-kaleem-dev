@@ -3,6 +3,6 @@ My expertise extends across various technologies, including React, Next.js, and 
 In an ever-evolving landscape of technology, I remain committed to continuous learning and self-improvement. Whether it's exploring emerging frameworks, mastering new programming languages, or staying updated on industry best practices, I strive to stay at the forefront of technological advancements and trends.
 
 <!---
-KaleemNeslit/KaleemNeslit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Malik-kaleem/Malik-kaleem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
